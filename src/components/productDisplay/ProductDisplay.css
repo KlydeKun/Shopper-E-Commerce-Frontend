@@ -91,6 +91,10 @@
     cursor: pointer;
 }
 
+.productdisplay-right button:active {
+    transform: scale(0.97);
+}
+
 .productdisplay-right-category {
     margin-top: 10px;
 }

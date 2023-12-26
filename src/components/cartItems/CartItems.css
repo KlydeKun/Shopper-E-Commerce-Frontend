@@ -30,8 +30,7 @@
 
 .cartitems-remove-icon {
     width: 15px;
-    margin: 0px 40px;
-    clip-rule: pointer;
+    cursor: pointer;
 }
 
 .cartitems-quantity {
